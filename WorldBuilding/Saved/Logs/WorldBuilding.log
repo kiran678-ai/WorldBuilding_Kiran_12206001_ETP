@@ -3648,3 +3648,25 @@ Sampler Limit: 32
 [2025.06.20-07.19.20:068][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2025.06.20-07.19.20:094][470]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2025.06.20-07.19.34:700][312]Cmd: SELECT NONE
+[2025.06.20-07.24.00:658][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-07.24.00:775][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.20-07.24.00:796][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-07.24.00:812][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-07.24.00:815][685]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/OK/6M1ZHEPOR2GB61SA3YTL44
+[2025.06.20-07.24.00:815][685]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/6M1ZHEPOR2GB61SA3YTL44F18915A946A488BEAB12B19616566F69.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/OK/6M1ZHEPOR2GB61SA3YTL44.uasset'
+[2025.06.20-07.24.00:830][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.749 ms (total: 13.4 sec)
+[2025.06.20-07.24.00:969][685]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-07.24.00:969][685]LogContentValidation: Enabled validators:
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-07.24.00:969][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-07.24.00:969][685]AssetCheck: /Game/DESERT Validating asset
+[2025.06.20-07.25.22:053][ 74]Cmd: SELECT NONE
+[2025.06.20-07.25.24:124][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-07.25.24:254][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-07.25.24:273][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-07.25.24:289][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-07.25.24:298][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.875 ms (total: 13.6 sec)
