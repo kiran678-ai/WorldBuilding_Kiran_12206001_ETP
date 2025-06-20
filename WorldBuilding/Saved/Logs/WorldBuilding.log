@@ -2074,3 +2074,896 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.20-05.55.53:112][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.20-05.55.53:112][976]AssetCheck: /Game/DESERT Validating asset
 [2025.06.20-05.55.53:128][976]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.20-05.56.36:400][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-05.56.36:403][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.020
+[2025.06.20-05.56.36:403][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Box_ABBFC3F4] ([1] browsable assets)...
+[2025.06.20-05.56.36:403][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_ABBFC3F4]
+[2025.06.20-05.56.36:405][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_ABBFC3F4_Auto4
+[2025.06.20-05.56.36:405][462]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_ABBFC3F4_Auto461C3391B4361CDEC9312BC80F36DAFF8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_ABBFC3F4_Auto4.uasset'
+[2025.06.20-05.56.36:407][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Sphere_2807E774] ([1] browsable assets)...
+[2025.06.20-05.56.36:407][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Sphere_2807E774]
+[2025.06.20-05.56.36:411][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Sphere_2807E774_Auto4
+[2025.06.20-05.56.36:411][462]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Sphere_2807E774_Auto43E3F525B4202F23991BC70A7BAD659D4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Sphere_2807E774_Auto4.uasset'
+[2025.06.20-05.56.36:412][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Cylinder_75ECFBF4] ([1] browsable assets)...
+[2025.06.20-05.56.36:412][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Cylinder_75ECFBF4]
+[2025.06.20-05.56.36:414][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Cylinder_75ECFBF4_Auto4
+[2025.06.20-05.56.36:414][462]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Cylinder_75ECFBF4_Auto40C3ABB614069B2BE3028B586FD8D4363.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Cylinder_75ECFBF4_Auto4.uasset'
+[2025.06.20-05.56.36:415][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/ASUS/Sphere_78FDB437] ([1] browsable assets)...
+[2025.06.20-05.56.36:441][462]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/ASUS/Sphere_78FDB437.Sphere_78FDB437]
+[2025.06.20-05.56.36:441][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Sphere_78FDB437]
+[2025.06.20-05.56.36:448][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Sphere_78FDB437_Auto4
+[2025.06.20-05.56.36:448][462]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Sphere_78FDB437_Auto4112DCFC94DF96028033892831B47F201.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Sphere_78FDB437_Auto4.uasset'
+[2025.06.20-05.56.36:449][462]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.06.20-05.56.37:477][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.06.20-05.56.38:523][519]LogSlate: Window 'Save Content' being destroyed
+[2025.06.20-05.56.38:532][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-05.56.38:676][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Box_ABBFC3F4] ([1] browsable assets)...
+[2025.06.20-05.56.38:676][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_ABBFC3F4]
+[2025.06.20-05.56.38:678][519]LogSavePackage: Moving output files for package: /Game/_GENERATED/ASUS/Box_ABBFC3F4
+[2025.06.20-05.56.38:678][519]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_ABBFC3F4D6CC63CE4A4EAD8A39FCE1986CC9DA9C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/_GENERATED/ASUS/Box_ABBFC3F4.uasset'
+[2025.06.20-05.56.38:679][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Cylinder_75ECFBF4] ([1] browsable assets)...
+[2025.06.20-05.56.38:679][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Cylinder_75ECFBF4]
+[2025.06.20-05.56.38:681][519]LogSavePackage: Moving output files for package: /Game/_GENERATED/ASUS/Cylinder_75ECFBF4
+[2025.06.20-05.56.38:681][519]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Cylinder_75ECFBF4EC6E938D46981CC8C90BAC80C8419B64.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/_GENERATED/ASUS/Cylinder_75ECFBF4.uasset'
+[2025.06.20-05.56.38:683][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Sphere_2807E774] ([1] browsable assets)...
+[2025.06.20-05.56.38:683][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Sphere_2807E774]
+[2025.06.20-05.56.38:687][519]LogSavePackage: Moving output files for package: /Game/_GENERATED/ASUS/Sphere_2807E774
+[2025.06.20-05.56.38:687][519]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Sphere_2807E774A0C3D1F84A6FA6C5822CE18D396C2FFD.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/_GENERATED/ASUS/Sphere_2807E774.uasset'
+[2025.06.20-05.56.38:688][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Sphere_78FDB437] ([1] browsable assets)...
+[2025.06.20-05.56.38:688][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Sphere_78FDB437]
+[2025.06.20-05.56.38:692][519]LogSavePackage: Moving output files for package: /Game/_GENERATED/ASUS/Sphere_78FDB437
+[2025.06.20-05.56.38:692][519]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Sphere_78FDB43742640F4D4E54C6BA809D55AA69DA93C6.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/_GENERATED/ASUS/Sphere_78FDB437.uasset'
+[2025.06.20-05.56.38:713][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.089 ms (total: 10.7 sec)
+[2025.06.20-05.56.38:847][519]LogContentValidation: Display: Starting to validate 4 assets
+[2025.06.20-05.56.38:847][519]LogContentValidation: Enabled validators:
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-05.56.38:847][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-05.56.38:847][519]AssetCheck: /Game/_GENERATED/ASUS/Box_ABBFC3F4 Validating asset
+[2025.06.20-05.56.38:847][519]AssetCheck: /Game/_GENERATED/ASUS/Cylinder_75ECFBF4 Validating asset
+[2025.06.20-05.56.38:847][519]AssetCheck: /Game/_GENERATED/ASUS/Sphere_2807E774 Validating asset
+[2025.06.20-05.56.38:847][519]AssetCheck: /Game/_GENERATED/ASUS/Sphere_78FDB437 Validating asset
+[2025.06.20-05.56.38:865][519]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.20-05.57.19:435][361]Cmd: SELECT NONE
+[2025.06.20-05.57.48:839][773]Cmd: TRANSACTION UNDO
+[2025.06.20-05.57.48:839][773]LogEditorTransaction: Undo Rotate Elements
+[2025.06.20-05.58.00:536][431]Cmd: SELECT NONE
+[2025.06.20-05.59.02:761][965]Cmd: SELECT NONE
+[2025.06.20-05.59.02:761][965]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'SELECT'. 
+[2025.06.20-05.59.04:530][ 67]Cmd: TRANSACTION UNDO
+[2025.06.20-05.59.04:530][ 67]LogEditorTransaction: Undo Select None
+[2025.06.20-05.59.05:731][112]Cmd: TRANSACTION UNDO
+[2025.06.20-05.59.05:731][112]LogEditorTransaction: Undo Clicking on Actors
+[2025.06.20-05.59.17:415][789]Cmd: TRANSACTION UNDO
+[2025.06.20-05.59.17:415][789]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.20-05.59.18:230][814]Cmd: TRANSACTION UNDO
+[2025.06.20-05.59.18:231][814]LogEditorTransaction: Undo Clicking on Actors
+[2025.06.20-06.02.04:287][  3]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: ================================================
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Total job queries 392, among them cache hits 44 (11.22%), DDC hits 279 (71.17%), Duplicates 63 (16.07%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Tracking 285 distinct input hashes that result in 203 distinct outputs (71.23%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: RAM used: 2.82 MiB of 819.20 MiB budget. Usage: 0.34%
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Average time worker was idle: 2836.59 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 0.88 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 0.92
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Shader code size: total 40.977 KiB, numShaders 6, average 6.829 KiB, min 5.562 KiB, max 7.852 KiB
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.76 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Average processing rate: 3.42 jobs/sec
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Total thread time: 3.014 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Total thread preprocess time: 5.542 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Percentage time preprocessing: 183.90%
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.214455
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.57 sec, max 0.60 sec, min 0.53 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.99% of total time (compiled    3 times, average 0.57 sec, max 0.60 sec, min 0.53 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.49% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                                  FHitProxyVS - 14.51% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: === Material stats ===
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Materials Translated:    148
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: Material Cache Hits: 32 (22%)
+[2025.06.20-06.04.07:501][331]LogShaderCompilers: Display: ================================================
+[2025.06.20-06.04.30:249][648]Cmd: TRANSACTION UNDO
+[2025.06.20-06.04.30:249][648]LogEditorTransaction: Undo Move Elements
+[2025.06.20-06.05.28:571][743]Cmd: TRANSACTION UNDO
+[2025.06.20-06.05.28:571][743]LogEditorTransaction: Undo Scale Elements
+[2025.06.20-06.05.40:879][415]Cmd: DELETE
+[2025.06.20-06.05.40:879][415]Cmd: ACTOR DELETE
+[2025.06.20-06.05.40:884][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.05.40:904][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.06.20-06.05.40:909][415]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.06.20-06.05.41:435][444]Cmd: DELETE
+[2025.06.20-06.05.41:435][444]Cmd: ACTOR DELETE
+[2025.06.20-06.05.41:439][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.05.41:458][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.05.41:461][444]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.06.20-06.06.17:068][148]Cmd: SELECT NONE
+[2025.06.20-06.06.46:954][705]Cmd: SELECT NONE
+[2025.06.20-06.06.51:121][943]Cmd: SELECT NONE
+[2025.06.20-06.06.53:255][ 70]Cmd: SELECT NONE
+[2025.06.20-06.07.06:122][660]Cmd: SELECT NONE
+[2025.06.20-06.07.17:920][349]Cmd: SELECT NONE
+[2025.06.20-06.07.56:278][347]Cmd: TRANSACTION UNDO
+[2025.06.20-06.07.56:278][347]LogEditorTransaction: Undo Move Elements
+[2025.06.20-06.08.19:044][642]Cmd: SELECT NONE
+[2025.06.20-06.08.33:696][493]Cmd: SELECT NONE
+[2025.06.20-06.08.59:507][ 10]Cmd: SELECT NONE
+[2025.06.20-06.08.59:965][ 38]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.20-06.09.09:549][406]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.20-06.09.13:362][629]Cmd: SELECT NONE
+[2025.06.20-06.09.25:716][348]Cmd: SELECT NONE
+[2025.06.20-06.09.33:959][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-06.09.34:081][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.06.20-06.09.34:102][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.09.34:122][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.09.34:124][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/OK/6M1ZHEPOR2GB61SA3YTL44
+[2025.06.20-06.09.34:125][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/6M1ZHEPOR2GB61SA3YTL44C73884784D93CC0ABC69F4AFB22A1D4E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/OK/6M1ZHEPOR2GB61SA3YTL44.uasset'
+[2025.06.20-06.09.34:127][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV
+[2025.06.20-06.09.34:128][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/IJ1E07RIUI9FX9XTD6L2ZV47893126480D379196B7888C403C999D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV.uasset'
+[2025.06.20-06.09.34:130][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6
+[2025.06.20-06.09.34:130][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XHOPH9AJ365674IYWLEIT60B7082D24762F3F35133DFA4AED2E88E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6.uasset'
+[2025.06.20-06.09.34:132][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ
+[2025.06.20-06.09.34:133][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/J3BEBCRYJ6FADSJZMMNKMQ093DB7604674C37DF34ACE94CC17ABBF.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ.uasset'
+[2025.06.20-06.09.34:136][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR
+[2025.06.20-06.09.34:136][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/VX89NHJF3JV61X2MU8A3QR59BC5F5247902452E11148AD1B8F96CC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR.uasset'
+[2025.06.20-06.09.34:138][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S
+[2025.06.20-06.09.34:139][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/7TKYWO0SEHWAB6LOJZFU9S8AC47CED42E030C3ECBD72B12A6AA874.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S.uasset'
+[2025.06.20-06.09.34:141][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI
+[2025.06.20-06.09.34:141][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9GFP19J4X0N56CRNC8IYZIDDD84BEB4604ABED6D8D308A74930CF7.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI.uasset'
+[2025.06.20-06.09.34:144][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9
+[2025.06.20-06.09.34:144][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/4V7DI4P80Y0KTNV74IMDO97F7134E146CF2224EF7C3A9B3D4DE0EA.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9.uasset'
+[2025.06.20-06.09.34:146][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8
+[2025.06.20-06.09.34:147][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PKGGF6HYLP0PW98W8GTTP8E8931F2641448E4078FABBB8B36E7A76.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8.uasset'
+[2025.06.20-06.09.34:149][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR
+[2025.06.20-06.09.34:149][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XUEFBQ9JMSFPKGE6TJQ2QRF5FBB6964F7534543009AD94BF0E688B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR.uasset'
+[2025.06.20-06.09.34:152][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4
+[2025.06.20-06.09.34:152][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HDVAZ9ZSSC5SOCT8TMZVD41534B7334506716A05629C92507093C4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4.uasset'
+[2025.06.20-06.09.34:155][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM
+[2025.06.20-06.09.34:155][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FIQN9XSXXQRULRP20CGYZMC1857C3440BBA7F17A094092D6DBA5D3.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM.uasset'
+[2025.06.20-06.09.34:158][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308
+[2025.06.20-06.09.34:159][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/DXQ5UQOVMLC7KJ5KWNH3080E1114A54AB91CF69564EEBFBC24B5D9.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308.uasset'
+[2025.06.20-06.09.34:161][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD
+[2025.06.20-06.09.34:162][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PS7NWL96L7OV8O1H4E7TFD4A9BF0414C6A1C03B8D375BD58C56EA4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD.uasset'
+[2025.06.20-06.09.34:163][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6
+[2025.06.20-06.09.34:164][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/BGKX6IZ991MI708DLHV6G65AEDC5E24E0B29DA94C6DDB6BA3F9B9B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6.uasset'
+[2025.06.20-06.09.34:166][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ
+[2025.06.20-06.09.34:166][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/K9G4EYLCXWRFTS381T1VYJA9E2B2264293C1A6F651F6AD8492312F.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ.uasset'
+[2025.06.20-06.09.34:168][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B
+[2025.06.20-06.09.34:170][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5IF9P1RPRAJJ1NO48CAW6BDD9F11A54BFDB2F61AE4D29BD61A382D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B.uasset'
+[2025.06.20-06.09.34:172][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q
+[2025.06.20-06.09.34:172][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GGBQ8TH5KNOKL7QWPIU89Q56303AB8409D8DC50911488345EA0A32.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q.uasset'
+[2025.06.20-06.09.34:174][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI
+[2025.06.20-06.09.34:174][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SU9YSJWSE8UGI0YGZ8DJWI026D728C4BF9E0E1F570719BC50BB55A.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI.uasset'
+[2025.06.20-06.09.34:176][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO
+[2025.06.20-06.09.34:177][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CBU286IOKEUX624Q1V4UFO3337C586440ED281615B40A7E79854AC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO.uasset'
+[2025.06.20-06.09.34:179][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2
+[2025.06.20-06.09.34:179][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O2TS6WVKN4VTI1NEXXZ7F22390CD884032EC9D364736A35C2DD441.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2.uasset'
+[2025.06.20-06.09.34:182][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ
+[2025.06.20-06.09.34:183][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/3KDJ5GGQ10EDEQN7IYEEAJF59D074A4EEF783B16DA729DD33F08B9.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ.uasset'
+[2025.06.20-06.09.34:185][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R
+[2025.06.20-06.09.34:185][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TKX4MCZFLOX0L51YFAI24RDDFD680F475809DD58F3A697489B79CB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R.uasset'
+[2025.06.20-06.09.34:188][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0
+[2025.06.20-06.09.34:188][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/E576X03UT49HIZBIE5SLU02791846D48F2905B0759C295ECC8D978.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0.uasset'
+[2025.06.20-06.09.34:190][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R
+[2025.06.20-06.09.34:190][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5QOOGHJD3XQ3EUHW6D5V6R6D707ED94E9344C6635D84A3F1FA5FB9.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R.uasset'
+[2025.06.20-06.09.34:192][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW
+[2025.06.20-06.09.34:192][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/8HVL9DR4FDOSB4OU40CHHWDFC7F8C14E3C0BD68841B5AAF4CD6E0A.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW.uasset'
+[2025.06.20-06.09.34:194][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC
+[2025.06.20-06.09.34:194][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/T038E81JCDXJFS67B8SIDC4EEB9DA24208F1E70DAB2CA1D5B18B21.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC.uasset'
+[2025.06.20-06.09.34:197][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/7/GA/C3178CS3G0XUZSB82A2DCD
+[2025.06.20-06.09.34:197][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/C3178CS3G0XUZSB82A2DCDAA33FA9E490138FC6EA59E8A952E7177.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/7/GA/C3178CS3G0XUZSB82A2DCD.uasset'
+[2025.06.20-06.09.34:199][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/7/2H/ZLYG5ESXFRVET3SZ0QF1FZ
+[2025.06.20-06.09.34:199][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/ZLYG5ESXFRVET3SZ0QF1FZ8726C4EA4CAB68B8348AE8A12FF25448.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/7/2H/ZLYG5ESXFRVET3SZ0QF1FZ.uasset'
+[2025.06.20-06.09.34:200][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/4R/35Q72U5LELG542FAGXQHKA
+[2025.06.20-06.09.34:200][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/35Q72U5LELG542FAGXQHKAD3D522F1416E6E194A23C1976CF33FDB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/4R/35Q72U5LELG542FAGXQHKA.uasset'
+[2025.06.20-06.09.34:203][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/7/MX/9LTFERREJ9K4FXIWEQH3W0
+[2025.06.20-06.09.34:203][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9LTFERREJ9K4FXIWEQH3W0C71463A646946DFE16CAECA458AE9942.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/7/MX/9LTFERREJ9K4FXIWEQH3W0.uasset'
+[2025.06.20-06.09.34:205][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/4D/HEF3XGLZXXZIO7KBY6JD3G
+[2025.06.20-06.09.34:205][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HEF3XGLZXXZIO7KBY6JD3GCD28751F46B7271086EAC4A9C6D174A1.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/4D/HEF3XGLZXXZIO7KBY6JD3G.uasset'
+[2025.06.20-06.09.34:207][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/MF/WOIPF5OJF1DOMXP0G3QG1I
+[2025.06.20-06.09.34:207][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/WOIPF5OJF1DOMXP0G3QG1I7299793345BFE143888538B6B1843D16.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/MF/WOIPF5OJF1DOMXP0G3QG1I.uasset'
+[2025.06.20-06.09.34:209][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC
+[2025.06.20-06.09.34:209][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HLFCTRIADT8L8EU895B6CC9AC1A22542369EFB6EE6CD8CE442DF97.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC.uasset'
+[2025.06.20-06.09.34:212][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C
+[2025.06.20-06.09.34:212][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CAOCTXFKFL2V8DFP79PS9CD6C61E334D9B331D6BD6F48FB9DEB2A6.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C.uasset'
+[2025.06.20-06.09.34:214][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO
+[2025.06.20-06.09.34:214][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9XVV7MO9DDLOE2SURORXOO338A60B3487D1C44E687F7BDE34375FC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO.uasset'
+[2025.06.20-06.09.34:216][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF
+[2025.06.20-06.09.34:216][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/M5JJFEY34983RP8SAC66JF5713F54A44945F028834408DA49E6B28.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF.uasset'
+[2025.06.20-06.09.34:219][546]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ
+[2025.06.20-06.09.34:219][546]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LZOUZDZ5XPFNKH2XPP6ALQA05A65A24904CA45C730BD983094E674.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ.uasset'
+[2025.06.20-06.09.34:236][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.356 ms (total: 11.0 sec)
+[2025.06.20-06.09.34:380][546]LogContentValidation: Display: Starting to validate 38 assets
+[2025.06.20-06.09.34:380][546]LogContentValidation: Enabled validators:
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-06.09.34:380][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-06.09.34:380][546]AssetCheck: /Game/DESERT Validating asset
+[2025.06.20-06.09.34:396][546]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.20-06.12.56:345][342]LogAssetEditorSubsystem: Opening Asset editor for HLODLayer /Game/DESERT_HLOD0_Instancing.DESERT_HLOD0_Instancing
+[2025.06.20-06.12.59:212][493]LogSlate: Window 'DESERT_HLOD0_Instancing' being destroyed
+[2025.06.20-06.13.10:795][130]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.13.14:180][315]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.13.19:995][617]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.13.25:841][936]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/MI_GlowNT.MI_GlowNT
+[2025.06.20-06.13.25:860][936]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.06.20-06.13.25:867][936]LogStreaming: Display: FlushAsyncLoading(829): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.13.28:011][ 19]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.M_SimpleGlow
+[2025.06.20-06.13.28:018][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.06.20-06.13.28:504][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.20-06.13.28:504][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.20-06.13.28:504][ 19]MaterialEditorStats: Shader Count: 0
+[2025.06.20-06.13.28:504][ 19]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.06.20-06.13.28:513][ 19]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Base pass shader without light map: 151 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Shader Count: 2
+[2025.06.20-06.13.28:620][ 21]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.06.20-06.14.01:966][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.20-06.14.01:981][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/2/9E/I9ZFD5XM1854LR3KAKAIYO_Auto5
+[2025.06.20-06.14.01:981][964]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/I9ZFD5XM1854LR3KAKAIYO_Auto550B69A1D4F1C35EA21F20D89FED8F363.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/2/9E/I9ZFD5XM1854LR3KAKAIYO_Auto5.uasset'
+[2025.06.20-06.14.01:983][964]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.089
+[2025.06.20-06.14.01:983][964]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2025.06.20-06.14.03:646][ 56]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-06.14.03:646][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.14.03:681][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.20-06.14.05:818][183]LogSlate: Window 'MI_GlowNT' being destroyed
+[2025.06.20-06.14.05:845][183]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-06.14.05:846][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.14.05:883][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.20-06.14.09:335][369]LogStreaming: Display: FlushAsyncLoading(834): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.14.43:742][260]Cmd: SELECT NONE
+[2025.06.20-06.14.51:312][694]Cmd: DELETE
+[2025.06.20-06.14.51:312][694]Cmd: ACTOR DELETE
+[2025.06.20-06.14.51:318][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.14.51:337][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.20-06.14.51:347][694]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.06.20-06.14.52:325][746]Cmd: DELETE
+[2025.06.20-06.14.52:325][746]Cmd: ACTOR DELETE
+[2025.06.20-06.14.52:330][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.14.52:348][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.14.52:352][746]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.06.20-06.14.52:823][770]Cmd: DELETE
+[2025.06.20-06.14.52:823][770]Cmd: ACTOR DELETE
+[2025.06.20-06.14.52:826][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.14.52:846][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.06.20-06.14.52:849][770]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.06.20-06.14.53:470][803]Cmd: DELETE
+[2025.06.20-06.14.53:470][803]Cmd: ACTOR DELETE
+[2025.06.20-06.14.53:474][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.14.53:489][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.14.53:493][803]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.06.20-06.15.02:267][302]Cmd: SELECT NONE
+[2025.06.20-06.15.34:069][717]Cmd: TRANSACTION UNDO
+[2025.06.20-06.15.34:069][717]LogEditorTransaction: Undo Edit Fog Density
+[2025.06.20-06.15.48:213][546]Cmd: TRANSACTION UNDO
+[2025.06.20-06.15.48:213][546]LogEditorTransaction: Undo Edit Fog Height Falloff
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: ================================================
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Total job queries 473, among them cache hits 83 (17.55%), DDC hits 301 (63.64%), Duplicates 63 (13.32%)
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 231 distinct outputs (70.64%)
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: RAM used: 3.03 MiB of 819.20 MiB budget. Usage: 0.37%
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Average time worker was idle: 674.70 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 1.51 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 1.55
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Shader code size: total 187.641 KiB, numShaders 27, average 6.949 KiB, min 2.688 KiB, max 12.969 KiB
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.64 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Average processing rate: 3.01 jobs/sec
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Total thread time: 14.873 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Total thread preprocess time: 6.502 s
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Percentage time preprocessing: 43.71%
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.215213
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.20-06.16.07:830][703]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.64 sec, max 0.77 sec, min 0.51 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    4 times, average 0.59 sec, max 0.63 sec, min 0.56 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.40 sec, max 0.44 sec, min 0.33 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 47.69% of total time (compiled   11 times, average 0.64 sec, max 0.77 sec, min 0.51 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.27% of total time (compiled    6 times, average 0.40 sec, max 0.44 sec, min 0.33 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                                  FHitProxyPS - 15.91% of total time (compiled    4 times, average 0.59 sec, max 0.63 sec, min 0.56 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.48% of total time (compiled    4 times, average 0.39 sec, max 0.44 sec, min 0.35 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display:                                                  FVelocityPS - 6.87% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: === Material stats ===
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Materials Translated:    163
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: Material Cache Hits: 34 (21%)
+[2025.06.20-06.16.07:831][703]LogShaderCompilers: Display: ================================================
+[2025.06.20-06.17.33:794][852]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-06.17.46:550][608]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-06.18.07:293][509]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-06.18.38:485][372]Cmd: SELECT NONE
+[2025.06.20-06.19.08:065][130]Cmd: TRANSACTION UNDO
+[2025.06.20-06.19.08:065][130]LogEditorTransaction: Undo Edit Sky Distance Threshold
+[2025.06.20-06.19.18:372][730]Cmd: EDIT CUT
+[2025.06.20-06.19.18:378][730]LogEditorActor: Deleted Actor: SkyLight
+[2025.06.20-06.19.18:398][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.20-06.19.18:410][730]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.06.20-06.19.27:326][265]Cmd: TRANSACTION UNDO
+[2025.06.20-06.19.27:326][265]LogEditorTransaction: Undo Cut
+[2025.06.20-06.19.28:504][318]Cmd: TRANSACTION UNDO
+[2025.06.20-06.19.28:504][318]LogEditorTransaction: Undo Edit Intensity Scale
+[2025.06.20-06.19.51:141][665]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.20-06.19.54:442][862]Cmd: TRANSACTION UNDO
+[2025.06.20-06.19.54:442][862]LogEditorTransaction: Undo Edit Intensity Scale
+[2025.06.20-06.20.12:442][921]Cmd: TRANSACTION UNDO
+[2025.06.20-06.20.12:442][921]LogEditorTransaction: Undo Edit Sky Light Cloud Bottom Occlusion
+[2025.06.20-06.20.50:408][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.20.50:503][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.20.50:597][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.20.50:688][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.20.55:742][230]LogSlate: Window 'Viewport 3' being destroyed
+[2025.06.20-06.21.30:166][128]Cmd: SELECT NONE
+[2025.06.20-06.22.14:625][771]Cmd: TRANSACTION UNDO
+[2025.06.20-06.22.14:625][771]LogEditorTransaction: Undo Edit Samples Per Pixel
+[2025.06.20-06.22.30:969][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.06.20-06.22.32:325][588]LogSlate: Window 'Save Content' being destroyed
+[2025.06.20-06.22.32:334][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-06.22.32:498][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.20-06.22.32:518][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.22.32:536][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.22.32:545][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C
+[2025.06.20-06.22.32:546][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CAOCTXFKFL2V8DFP79PS9CFAF4D45D459C4840AEDBD795FC0AD502.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C.uasset'
+[2025.06.20-06.22.32:548][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W
+[2025.06.20-06.22.32:548][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TY8ZHDJJ5I84OZ746PG79WAF7E95DA476C80E4D3AA9A96091EA8B2.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W.uasset'
+[2025.06.20-06.22.32:551][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/UF/EK2FSCTWRFYL4RTMHBDA3F
+[2025.06.20-06.22.32:552][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/EK2FSCTWRFYL4RTMHBDA3F74970EC04055EDB4AC8513A9C5A43897.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/UF/EK2FSCTWRFYL4RTMHBDA3F.uasset'
+[2025.06.20-06.22.33:101][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/6/C9/G9J2FCHDDMYAE87DTLZTED
+[2025.06.20-06.22.33:102][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/G9J2FCHDDMYAE87DTLZTEDA12A987D4299D01FCD9804B44B45E6FD.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/6/C9/G9J2FCHDDMYAE87DTLZTED.uasset'
+[2025.06.20-06.22.33:124][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/TW/AO0A4BFFHHPP9JXS3733IT
+[2025.06.20-06.22.33:125][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/AO0A4BFFHHPP9JXS3733IT0174CD534C57DC9D3E8635A43AC9C4B4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/TW/AO0A4BFFHHPP9JXS3733IT.uasset'
+[2025.06.20-06.22.33:141][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/2/9E/I9ZFD5XM1854LR3KAKAIYO
+[2025.06.20-06.22.33:142][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/I9ZFD5XM1854LR3KAKAIYO34FD3A1B4E37B0B699C347908AEFE8CC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/2/9E/I9ZFD5XM1854LR3KAKAIYO.uasset'
+[2025.06.20-06.22.33:157][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/WP/YE8B7N809WTD2GJQDAJCLD
+[2025.06.20-06.22.33:158][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/YE8B7N809WTD2GJQDAJCLD470BB12B40A0215209CC78B1EA3837BB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/WP/YE8B7N809WTD2GJQDAJCLD.uasset'
+[2025.06.20-06.22.33:160][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/7C/57X80X25ZFH9CDEFN220RF
+[2025.06.20-06.22.33:160][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/57X80X25ZFH9CDEFN220RF479A33DE443D08BB2C497DAB94D818BE.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/7C/57X80X25ZFH9CDEFN220RF.uasset'
+[2025.06.20-06.22.33:163][588]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X
+[2025.06.20-06.22.33:164][588]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/UGHUXFP4PXETUMFCD3FD5X9A8521AD47649FE68CF111AE7B1019C4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X.uasset'
+[2025.06.20-06.22.33:189][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 854.862 ms (total: 11.8 sec)
+[2025.06.20-06.22.33:326][588]LogContentValidation: Display: Starting to validate 9 assets
+[2025.06.20-06.22.33:326][588]LogContentValidation: Enabled validators:
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-06.22.33:326][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-06.22.33:326][588]AssetCheck: /Game/DESERT Validating asset
+[2025.06.20-06.27.14:742][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.06.20-06.27.14:747][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W_Auto6
+[2025.06.20-06.27.14:747][726]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TY8ZHDJJ5I84OZ746PG79W_Auto66494E5424E3D13D858C484BBC93DE23E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W_Auto6.uasset'
+[2025.06.20-06.27.14:750][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X_Auto6
+[2025.06.20-06.27.14:750][726]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/UGHUXFP4PXETUMFCD3FD5X_Auto6F8AA24CC41211408D1FE8FADB7E7768F.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X_Auto6.uasset'
+[2025.06.20-06.27.14:751][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.026
+[2025.06.20-06.27.14:751][726]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.06.20-06.27.46:857][506]Cmd: SELECT NONE
+[2025.06.20-06.28.09:322][838]Cmd: TRANSACTION UNDO
+[2025.06.20-06.28.09:322][838]LogEditorTransaction: Undo Attach actors
+[2025.06.20-06.28.12:346][  3]Cmd: DUPLICATE
+[2025.06.20-06.28.12:346][  3]Cmd: ACTOR DUPLICATE
+[2025.06.20-06.28.26:567][843]Cmd: TRANSACTION UNDO
+[2025.06.20-06.28.26:567][843]LogEditorTransaction: Undo Set Location
+[2025.06.20-06.29.04:648][108]Cmd: SELECT NONE
+[2025.06.20-06.29.18:975][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-06.29.19:095][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.20-06.29.19:121][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.29.19:139][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.29.19:141][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W
+[2025.06.20-06.29.19:141][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TY8ZHDJJ5I84OZ746PG79W46F6EEDC4145C90E120006909FDF8890.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W.uasset'
+[2025.06.20-06.29.19:143][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X
+[2025.06.20-06.29.19:145][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/UGHUXFP4PXETUMFCD3FD5X6E0BB2274FA608281E0BEE973BE2B419.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/8P/UGHUXFP4PXETUMFCD3FD5X.uasset'
+[2025.06.20-06.29.19:147][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8
+[2025.06.20-06.29.19:147][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FT2STSNF2XTWZXL16ECZI84348A9E9439592AB937A38A80D83B682.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8.uasset'
+[2025.06.20-06.29.19:149][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9
+[2025.06.20-06.29.19:149][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/6Z9GX9J6QHZ5148ACJLQC950D87E6441A45FEB574FC096B605189B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9.uasset'
+[2025.06.20-06.29.19:152][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7
+[2025.06.20-06.29.19:152][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/L1QMDGDGOQB2JYOL55LSA75383539A4FED879D23BF54B16229E997.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7.uasset'
+[2025.06.20-06.29.19:155][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20
+[2025.06.20-06.29.19:155][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/ZY3SWKV3HK9EUSOVWPFZ20D81AA7484BE394BF0A3C7394D26EDC04.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20.uasset'
+[2025.06.20-06.29.19:157][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY
+[2025.06.20-06.29.19:157][966]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XEQME3Z5M3OIX99YFJGUHY3A1923284784E4F8EDE170870844FEB4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY.uasset'
+[2025.06.20-06.29.19:165][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.619 ms (total: 12.0 sec)
+[2025.06.20-06.29.19:330][966]LogContentValidation: Display: Starting to validate 7 assets
+[2025.06.20-06.29.19:331][966]LogContentValidation: Enabled validators:
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-06.29.19:331][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-06.29.19:331][966]AssetCheck: /Game/DESERT Validating asset
+[2025.06.20-06.29.19:355][966]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.20-06.30.21:790][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.20-06.30.21:797][742]LogContentBundle: [DESERT(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.06.20-06.30.21:797][742]LogWorldPartition: Display: GenerateStreaming for 'DESERT' started...
+[2025.06.20-06.30.21:800][742]LogWorldPartition: Display: GenerateStreaming for 'DESERT' took 2.973 ms (total: 8.099 ms)
+[2025.06.20-06.30.21:800][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-06.30.21:800][742]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DESERT
+[2025.06.20-06.30.21:824][742]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.06.20-06.30.21:830][742]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.604 ms (total: 16.459 ms)
+[2025.06.20-06.30.21:830][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030058s)
+[2025.06.20-06.30.21:830][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DESERT.DESERT to /Game/UEDPIE_0_DESERT.DESERT (0.030090s)
+[2025.06.20-06.30.21:851][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.20-06.30.21:852][742]LogChaosDD: Creating Chaos Debug Draw Scene for world DESERT
+[2025.06.20-06.30.21:854][742]LogWorldPartition: ULevel::OnLevelLoaded(DESERT)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.20-06.30.21:854][742]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.20-06.30.21:854][742]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_DESERT.DESERT, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.20-06.30.21:854][742]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.20-06.30.21:863][742]LogWorldPartition: Display: WorldPartition initialize took 8.473 ms (total: 540.786 ms)
+[2025.06.20-06.30.21:863][742]LogPlayLevel: PIE: World Init took: (0.010486s)
+[2025.06.20-06.30.21:863][742]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-06.30.21:863][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.20-06.30.21:863][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-06.30.21:863][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-06.30.21:864][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-06.30.21:864][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-06.30.21:866][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-06.30.21:888][742]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.20-06.30.21:888][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-06.30.21:888][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-06.30.21:888][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-06.30.21:889][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.06.20-06.30.21:889][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.06.20-06.30.21:891][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.06.20-06.30.21:891][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.06.20-06.30.21:891][742]LogInit: FAudioDevice initialized with ID 4.
+[2025.06.20-06.30.21:891][742]LogAudio: Display: Audio Device (ID: 4) registered with world 'DESERT'.
+[2025.06.20-06.30.21:891][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.20-06.30.21:896][742]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.20-06.30.21:898][742]LogWorld: Bringing World /Game/UEDPIE_0_DESERT.DESERT up for play (max tick rate 60) at 2025.06.20-12.00.21
+[2025.06.20-06.30.21:898][742]LogWorld: Bringing up level for play took: 0.002147
+[2025.06.20-06.30.21:900][742]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.06.20-06.30.21:910][742]LogStreaming: Display: FlushAsyncLoading(913,912,911,910,909,908,907,906,905,904,903,902,901,900,899,898,897,896,895,894,893,892,891,890,889,888,887,886,885,884,883,882,881,880,879,878,877,876,875,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,836,835): 79 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.30.22:117][742]PIE: Server logged in
+[2025.06.20-06.30.22:119][742]PIE: Play in editor total start time 0.322 seconds.
+[2025.06.20-06.30.48:627][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.30.48:627][619]LogWorld: BeginTearingDown for /Game/UEDPIE_0_DESERT
+[2025.06.20-06.30.48:636][619]LogWorld: UWorld::CleanupWorld for DESERT, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-06.30.48:637][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.30.48:637][619]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_DESERT.DESERT
+[2025.06.20-06.30.48:638][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-06.30.48:642][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.30.48:668][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.30.48:670][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.20-06.30.48:670][619]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.06.20-06.30.48:672][619]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.06.20-06.30.48:685][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.20-06.30.48:710][620]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.06.20-06.31.10:671][879]Cmd: TRANSACTION UNDO
+[2025.06.20-06.31.10:671][879]LogEditorTransaction: Undo Move Elements
+[2025.06.20-06.31.26:545][760]Cmd: SELECT NONE
+[2025.06.20-06.32.00:167][551]Cmd: SELECT NONE
+[2025.06.20-06.32.07:197][897]Cmd: SELECT NONE
+[2025.06.20-06.32.07:254][899]Cmd: SELECT NONE
+[2025.06.20-06.32.24:816][926]Cmd: SELECT NONE
+[2025.06.20-06.32.26:889][ 40]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.20-06.32.26:896][ 40]LogContentBundle: [DESERT(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.06.20-06.32.26:896][ 40]LogWorldPartition: Display: GenerateStreaming for 'DESERT' started...
+[2025.06.20-06.32.26:900][ 40]LogWorldPartition: Display: GenerateStreaming for 'DESERT' took 3.811 ms (total: 11.911 ms)
+[2025.06.20-06.32.26:901][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-06.32.26:901][ 40]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DESERT
+[2025.06.20-06.32.26:927][ 40]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.06.20-06.32.26:933][ 40]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.968 ms (total: 22.427 ms)
+[2025.06.20-06.32.26:934][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033869s)
+[2025.06.20-06.32.26:934][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DESERT.DESERT to /Game/UEDPIE_0_DESERT.DESERT (0.033900s)
+[2025.06.20-06.32.26:953][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.20-06.32.26:960][ 40]LogChaosDD: Creating Chaos Debug Draw Scene for world DESERT
+[2025.06.20-06.32.26:962][ 40]LogWorldPartition: ULevel::OnLevelLoaded(DESERT)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.20-06.32.26:962][ 40]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.20-06.32.26:962][ 40]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_DESERT.DESERT, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.20-06.32.26:962][ 40]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.20-06.32.26:971][ 40]LogWorldPartition: Display: WorldPartition initialize took 8.560 ms (total: 549.346 ms)
+[2025.06.20-06.32.26:971][ 40]LogPlayLevel: PIE: World Init took: (0.010528s)
+[2025.06.20-06.32.26:972][ 40]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-06.32.26:972][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.20-06.32.26:972][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-06.32.26:972][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-06.32.26:972][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-06.32.26:972][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-06.32.26:974][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-06.32.26:995][ 40]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.06.20-06.32.26:995][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-06.32.26:995][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-06.32.26:995][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-06.32.26:996][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.06.20-06.32.26:996][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.06.20-06.32.26:998][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.06.20-06.32.26:998][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.06.20-06.32.26:998][ 40]LogInit: FAudioDevice initialized with ID 5.
+[2025.06.20-06.32.26:998][ 40]LogAudio: Display: Audio Device (ID: 5) registered with world 'DESERT'.
+[2025.06.20-06.32.26:998][ 40]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.20-06.32.27:003][ 40]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.20-06.32.27:004][ 40]LogWorld: Bringing World /Game/UEDPIE_0_DESERT.DESERT up for play (max tick rate 60) at 2025.06.20-12.02.27
+[2025.06.20-06.32.27:004][ 40]LogWorld: Bringing up level for play took: 0.001771
+[2025.06.20-06.32.27:007][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.06.20-06.32.27:022][ 40]LogStreaming: Display: FlushAsyncLoading(954,953,952,951,950,949,948,947,946,945,944,943,942,941,940,939,938,937,936,935,934,933,932,931,930,929,928,927,926,925,924,923,922,921,920,919,918,917,916,915,914): 41 QueuedPackages, 0 AsyncPackages
+[2025.06.20-06.32.27:216][ 40]PIE: Server logged in
+[2025.06.20-06.32.27:218][ 40]PIE: Play in editor total start time 0.322 seconds.
+[2025.06.20-06.32.50:062][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.32.50:062][406]LogWorld: BeginTearingDown for /Game/UEDPIE_0_DESERT
+[2025.06.20-06.32.50:071][406]LogWorld: UWorld::CleanupWorld for DESERT, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-06.32.50:071][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.32.50:071][406]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_DESERT.DESERT
+[2025.06.20-06.32.50:073][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-06.32.50:079][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-06.32.50:106][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-06.32.50:107][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.06.20-06.32.50:107][406]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.06.20-06.32.50:109][406]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.06.20-06.32.50:121][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.20-06.32.50:146][407]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.06.20-06.35.41:050][464]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.20-06.35.41:051][464]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.20-06.35.42:953][575]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.06.20-06.35.43:880][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/ASUS/Box_C8E7C810.Box_C8E7C810
+[2025.06.20-06.35.43:881][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/ASUS/Box_C8E7C810.Box_C8E7C810 as actor: StaticMeshActor /Game/DESERT.DESERT:PersistentLevel.StaticMeshActor_UAID_50EBF6D09D6CDB7302_1820508530
+[2025.06.20-06.35.43:891][629]LogStaticMesh: Display: Building static mesh Box_C8E7C810 (Required Memory Estimate: 0.027864 MB)...
+[2025.06.20-06.35.43:892][629]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/ASUS/Box_C8E7C810.Box_C8E7C810
+[2025.06.20-06.36.05:171][877]Cmd: DELETE
+[2025.06.20-06.36.05:171][877]Cmd: ACTOR DELETE
+[2025.06.20-06.36.05:174][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.20-06.36.05:226][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.06.20-06.36.05:230][877]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2025.06.20-06.36.06:615][959]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.20-06.36.06:616][959]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.20-06.36.13:814][389]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.06.20-06.36.14:603][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6
+[2025.06.20-06.36.14:604][435]LogStaticMesh: Display: Building static mesh Box_9EB37FF6 (Required Memory Estimate: 0.027864 MB)...
+[2025.06.20-06.36.14:604][435]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6
+[2025.06.20-06.36.14:605][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6 as actor: StaticMeshActor /Game/DESERT.DESERT:PersistentLevel.StaticMeshActor_UAID_50EBF6D09D6CDB7302_1851231531
+[2025.06.20-06.36.54:379][737]Cmd: SELECT NONE
+[2025.06.20-06.37.16:071][985]Cmd: SELECT NONE
+[2025.06.20-06.37.24:255][459]Cmd: SELECT NONE
+[2025.06.20-06.38.24:277][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.20-06.38.24:287][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W_Auto7
+[2025.06.20-06.38.24:287][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TY8ZHDJJ5I84OZ746PG79W_Auto711D8DFC045363C08DAD7B79D60AB2D5A.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W_Auto7.uasset'
+[2025.06.20-06.38.24:290][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV_Auto7
+[2025.06.20-06.38.24:290][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/IJ1E07RIUI9FX9XTD6L2ZV_Auto707AF91624334A94AE1F7B2A1AB232DA8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV_Auto7.uasset'
+[2025.06.20-06.38.24:292][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6_Auto7
+[2025.06.20-06.38.24:292][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XHOPH9AJ365674IYWLEIT6_Auto74DA646274CC91C5A35AC7F90F1032147.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6_Auto7.uasset'
+[2025.06.20-06.38.24:295][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ_Auto7
+[2025.06.20-06.38.24:295][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/J3BEBCRYJ6FADSJZMMNKMQ_Auto723541D2C4B5FCF7AEB09E49048631DC4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ_Auto7.uasset'
+[2025.06.20-06.38.24:299][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR_Auto7
+[2025.06.20-06.38.24:299][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/VX89NHJF3JV61X2MU8A3QR_Auto7F782F9C04C5FC358DED500BD46F03008.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR_Auto7.uasset'
+[2025.06.20-06.38.24:301][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S_Auto7
+[2025.06.20-06.38.24:301][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/7TKYWO0SEHWAB6LOJZFU9S_Auto7F2E0CFA14B5E4C0A4BBC8CBFB82DD387.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S_Auto7.uasset'
+[2025.06.20-06.38.24:303][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI_Auto7
+[2025.06.20-06.38.24:303][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9GFP19J4X0N56CRNC8IYZI_Auto73777AFE54E16F850BC9058882A0D102C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI_Auto7.uasset'
+[2025.06.20-06.38.24:305][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9_Auto7
+[2025.06.20-06.38.24:305][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/4V7DI4P80Y0KTNV74IMDO9_Auto7EB44E9DB43C81C840F87189C644D3812.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9_Auto7.uasset'
+[2025.06.20-06.38.24:307][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8_Auto7
+[2025.06.20-06.38.24:307][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PKGGF6HYLP0PW98W8GTTP8_Auto7A4F694B045E9EA54D77C5BB2D905DDC8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8_Auto7.uasset'
+[2025.06.20-06.38.24:308][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR_Auto7
+[2025.06.20-06.38.24:308][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XUEFBQ9JMSFPKGE6TJQ2QR_Auto7E33FB4DF474D7148E1FF5EB1E660AE1B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR_Auto7.uasset'
+[2025.06.20-06.38.24:310][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4_Auto7
+[2025.06.20-06.38.24:310][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HDVAZ9ZSSC5SOCT8TMZVD4_Auto7F499915F45E24242455FE68C2CF812AB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4_Auto7.uasset'
+[2025.06.20-06.38.24:311][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM_Auto7
+[2025.06.20-06.38.24:311][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FIQN9XSXXQRULRP20CGYZM_Auto72F05457E43DCD839F2ADBCB96F37691E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM_Auto7.uasset'
+[2025.06.20-06.38.24:313][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308_Auto7
+[2025.06.20-06.38.24:313][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/DXQ5UQOVMLC7KJ5KWNH308_Auto7CE88EB364A95A012E69E19A4C42D37B3.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308_Auto7.uasset'
+[2025.06.20-06.38.24:315][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD_Auto7
+[2025.06.20-06.38.24:315][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PS7NWL96L7OV8O1H4E7TFD_Auto786E3FD654F64706A25A335BEB1BF16B8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD_Auto7.uasset'
+[2025.06.20-06.38.24:317][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6_Auto7
+[2025.06.20-06.38.24:317][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/BGKX6IZ991MI708DLHV6G6_Auto78A151AC74A69B4E7A714BBAD5E6F4884.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6_Auto7.uasset'
+[2025.06.20-06.38.24:318][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ_Auto7
+[2025.06.20-06.38.24:318][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/K9G4EYLCXWRFTS381T1VYJ_Auto7EC94A6D0462472708F66928D870C8592.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ_Auto7.uasset'
+[2025.06.20-06.38.24:321][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B_Auto7
+[2025.06.20-06.38.24:321][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5IF9P1RPRAJJ1NO48CAW6B_Auto71E51DA024189C7E13162A0BC6C385CF4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B_Auto7.uasset'
+[2025.06.20-06.38.24:324][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q_Auto7
+[2025.06.20-06.38.24:324][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GGBQ8TH5KNOKL7QWPIU89Q_Auto7CD6BB4FE4945DAA98C2CAABE932F457F.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q_Auto7.uasset'
+[2025.06.20-06.38.24:326][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI_Auto7
+[2025.06.20-06.38.24:326][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SU9YSJWSE8UGI0YGZ8DJWI_Auto72C0E088C4951991DCD2C758392C3513C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI_Auto7.uasset'
+[2025.06.20-06.38.24:330][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO_Auto7
+[2025.06.20-06.38.24:330][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CBU286IOKEUX624Q1V4UFO_Auto77631BEEE43E5639A99CC6D90EE5A8E0D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO_Auto7.uasset'
+[2025.06.20-06.38.24:331][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2_Auto7
+[2025.06.20-06.38.24:331][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O2TS6WVKN4VTI1NEXXZ7F2_Auto7D67A01DD4CB751F3DAE24AAC53610358.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2_Auto7.uasset'
+[2025.06.20-06.38.24:334][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ_Auto7
+[2025.06.20-06.38.24:334][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/3KDJ5GGQ10EDEQN7IYEEAJ_Auto7EEE598314A0B41DC364F8E8C70006465.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ_Auto7.uasset'
+[2025.06.20-06.38.24:336][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R_Auto7
+[2025.06.20-06.38.24:336][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TKX4MCZFLOX0L51YFAI24R_Auto71A83099F42E1DCC2891DF2B4448B4644.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R_Auto7.uasset'
+[2025.06.20-06.38.24:337][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0_Auto7
+[2025.06.20-06.38.24:337][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/E576X03UT49HIZBIE5SLU0_Auto78D7C483A4FFF936F7D90E68450B8E9FD.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0_Auto7.uasset'
+[2025.06.20-06.38.24:340][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R_Auto7
+[2025.06.20-06.38.24:340][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5QOOGHJD3XQ3EUHW6D5V6R_Auto77F8FB2D0410E661E7EDA40B74DA005CB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R_Auto7.uasset'
+[2025.06.20-06.38.24:341][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW_Auto7
+[2025.06.20-06.38.24:341][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/8HVL9DR4FDOSB4OU40CHHW_Auto7278364914EA5DB2390E8F2B9F4A53F62.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW_Auto7.uasset'
+[2025.06.20-06.38.24:344][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC_Auto7
+[2025.06.20-06.38.24:344][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/T038E81JCDXJFS67B8SIDC_Auto76CD55A5E4B2C07711AD6C496667A2604.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC_Auto7.uasset'
+[2025.06.20-06.38.24:345][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC_Auto7
+[2025.06.20-06.38.24:345][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HLFCTRIADT8L8EU895B6CC_Auto75DE2D0B14E8AC669DDEA15AC5566DE8F.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC_Auto7.uasset'
+[2025.06.20-06.38.24:347][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C_Auto7
+[2025.06.20-06.38.24:347][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CAOCTXFKFL2V8DFP79PS9C_Auto715AA4B0045374C5AABB6438AEC14919B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C_Auto7.uasset'
+[2025.06.20-06.38.24:348][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO_Auto7
+[2025.06.20-06.38.24:348][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9XVV7MO9DDLOE2SURORXOO_Auto7B4D01E3140B6CB4860F0CAB11486F8EF.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO_Auto7.uasset'
+[2025.06.20-06.38.24:351][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF_Auto7
+[2025.06.20-06.38.24:351][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/M5JJFEY34983RP8SAC66JF_Auto7AD74286C46BEDDFBCA773BAADF77196E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF_Auto7.uasset'
+[2025.06.20-06.38.24:353][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ_Auto7
+[2025.06.20-06.38.24:353][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LZOUZDZ5XPFNKH2XPP6ALQ_Auto75F8DEC884500FADF70DFADB1B789C51C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ_Auto7.uasset'
+[2025.06.20-06.38.24:355][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8_Auto7
+[2025.06.20-06.38.24:355][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FT2STSNF2XTWZXL16ECZI8_Auto7135DBF174083966E4F6069B9F89A14A2.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8_Auto7.uasset'
+[2025.06.20-06.38.24:357][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9_Auto7
+[2025.06.20-06.38.24:357][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/6Z9GX9J6QHZ5148ACJLQC9_Auto7EC7668F44D42BD7E3D8CFABD293D2847.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9_Auto7.uasset'
+[2025.06.20-06.38.24:359][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7_Auto7
+[2025.06.20-06.38.24:359][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/L1QMDGDGOQB2JYOL55LSA7_Auto7279F9F3A4FDAA6FBC8D5AEBD8AE047CE.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7_Auto7.uasset'
+[2025.06.20-06.38.24:360][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20_Auto7
+[2025.06.20-06.38.24:360][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/ZY3SWKV3HK9EUSOVWPFZ20_Auto780CE0CC54F85F5334786F88145FBCF4E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20_Auto7.uasset'
+[2025.06.20-06.38.24:362][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY_Auto7
+[2025.06.20-06.38.24:362][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XEQME3Z5M3OIX99YFJGUHY_Auto7439E47C84963B9A431314EBE903ECE3C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY_Auto7.uasset'
+[2025.06.20-06.38.24:365][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto7
+[2025.06.20-06.38.24:365][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FO2ONKZNMSBBP6VOEWW97K_Auto7C75C3E05405D1D7366848CAE748B3EC8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto7.uasset'
+[2025.06.20-06.38.24:366][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.115
+[2025.06.20-06.38.24:366][ 76]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
+[2025.06.20-06.38.24:366][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/ASUS/Box_C8E7C810] ([1] browsable assets)...
+[2025.06.20-06.38.24:381][ 76]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/ASUS/Box_C8E7C810.Box_C8E7C810]
+[2025.06.20-06.38.24:381][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_C8E7C810]
+[2025.06.20-06.38.24:384][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_C8E7C810_Auto7
+[2025.06.20-06.38.24:384][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_C8E7C810_Auto77F1B9FA046A16B558016F287C668C9A7.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_C8E7C810_Auto7.uasset'
+[2025.06.20-06.38.24:384][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/ASUS/Box_9EB37FF6] ([1] browsable assets)...
+[2025.06.20-06.38.24:392][ 76]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6]
+[2025.06.20-06.38.24:392][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_9EB37FF6]
+[2025.06.20-06.38.24:395][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto7
+[2025.06.20-06.38.24:395][ 76]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_9EB37FF6_Auto703E43AA04896B16D73E24BA14CA2CC15.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto7.uasset'
+[2025.06.20-06.38.24:396][ 76]LogFileHelpers: Auto-saving content packages took 0.031
+[2025.06.20-06.44.08:214][728]Cmd: SELECT NONE
+[2025.06.20-06.44.16:425][150]Cmd: ACTOR UNBAKEPREPIVOT
+[2025.06.20-06.44.19:958][318]Cmd: PIVOT HERE
+[2025.06.20-06.44.29:423][874]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2025.06.20-06.47.24:753][718]LogInteractiveToolsContext: Warning: WARNING: This Tool will Modify the selected StaticMesh Assets! If you do not wish to modify the original Assets, please make copies in the Content Browser first!
+[2025.06.20-06.47.24:753][718]LogInteractiveToolsContext: Display: This tool edits the Pivot (Origin) of the input assets. Hold Ctrl while using the gizmo to align to scene. Enable Snap Dragging and click+drag to place gizmo directly into clicked position.
+[2025.06.20-06.47.34:616][291]LogStaticMesh: Display: Building static mesh Box_9EB37FF6 (Required Memory Estimate: 0.027864 MB)...
+[2025.06.20-06.47.34:616][291]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6
+[2025.06.20-06.48.06:711][183]Cmd: SELECT NONE
+[2025.06.20-06.48.10:068][378]Cmd: SELECT NONE
+[2025.06.20-06.48.27:276][375]Cmd: SELECT NONE
+[2025.06.20-06.48.33:787][751]LogInteractiveToolsContext: Warning: WARNING: This Tool will Modify the selected StaticMesh Assets! If you do not wish to modify the original Assets, please make copies in the Content Browser first!
+[2025.06.20-06.48.33:787][751]LogInteractiveToolsContext: Display: This tool edits the Pivot (Origin) of the input assets. Hold Ctrl while using the gizmo to align to scene. Enable Snap Dragging and click+drag to place gizmo directly into clicked position.
+[2025.06.20-06.48.53:958][958]LogStaticMesh: Display: Building static mesh Box_9EB37FF6 (Required Memory Estimate: 0.027864 MB)...
+[2025.06.20-06.48.53:959][958]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6
+[2025.06.20-06.49.08:906][830]Cmd: SELECT NONE
+[2025.06.20-06.49.41:123][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.06.20-06.49.41:129][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto8
+[2025.06.20-06.49.41:129][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FO2ONKZNMSBBP6VOEWW97K_Auto850EE4C604009A9C9C152EEBCCBC6F1A8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto8.uasset'
+[2025.06.20-06.49.41:131][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP_Auto8
+[2025.06.20-06.49.41:131][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O4JVDNU0AXK439FSKAEOMP_Auto8404F1924403A9F434A1CEE8B61F677B3.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP_Auto8.uasset'
+[2025.06.20-06.49.41:134][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/7/GE/V6GVU6HCBOOTV719YT2BML_Auto8
+[2025.06.20-06.49.41:134][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/V6GVU6HCBOOTV719YT2BML_Auto8B104303048D1B8156E7FACB646F0EDE5.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/7/GE/V6GVU6HCBOOTV719YT2BML_Auto8.uasset'
+[2025.06.20-06.49.41:136][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD_Auto8
+[2025.06.20-06.49.41:136][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GWXP1KYD4ZSLMCYLW8DHKD_Auto83B5FEBA343D5CC07CBEAA09F4AD850FD.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD_Auto8.uasset'
+[2025.06.20-06.49.41:138][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/R0/9IDN9AJIQN24HK3HLO3NR1_Auto8
+[2025.06.20-06.49.41:138][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9IDN9AJIQN24HK3HLO3NR1_Auto8FC3A9F8440EC49243429FBBCAA2FE49B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/R0/9IDN9AJIQN24HK3HLO3NR1_Auto8.uasset'
+[2025.06.20-06.49.41:139][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/2/3L/COLPYIELF2WGG0I2O4Q726_Auto8
+[2025.06.20-06.49.41:139][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/COLPYIELF2WGG0I2O4Q726_Auto8FF7A40F8458BFA6A0FF40C9FAFA3E28A.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/2/3L/COLPYIELF2WGG0I2O4Q726_Auto8.uasset'
+[2025.06.20-06.49.41:140][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.041
+[2025.06.20-06.49.41:140][717]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.06.20-06.49.41:140][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/ASUS/Box_9EB37FF6] ([1] browsable assets)...
+[2025.06.20-06.49.41:156][717]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/ASUS/Box_9EB37FF6.Box_9EB37FF6]
+[2025.06.20-06.49.41:156][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_9EB37FF6]
+[2025.06.20-06.49.41:159][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto8
+[2025.06.20-06.49.41:159][717]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_9EB37FF6_Auto86EE8397042B2531F316C3B8EFA0C9D4C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto8.uasset'
+[2025.06.20-06.49.41:160][717]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.06.20-06.50.46:528][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-06.50.46:641][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.50.46:659][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.06.20-06.50.46:678][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.06.20-06.50.46:681][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W
+[2025.06.20-06.50.46:681][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TY8ZHDJJ5I84OZ746PG79W6867C6714BC48B617478A3A57ABFA862.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/US/TY8ZHDJJ5I84OZ746PG79W.uasset'
+[2025.06.20-06.50.46:683][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV
+[2025.06.20-06.50.46:684][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/IJ1E07RIUI9FX9XTD6L2ZVFCD3052248B663B5AFBD64BCE96DE40A.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/2S/IJ1E07RIUI9FX9XTD6L2ZV.uasset'
+[2025.06.20-06.50.46:687][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6
+[2025.06.20-06.50.46:687][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XHOPH9AJ365674IYWLEIT6D05C2A5746087B252D5634BC4A7003FA.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/K6/XHOPH9AJ365674IYWLEIT6.uasset'
+[2025.06.20-06.50.46:689][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ
+[2025.06.20-06.50.46:690][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/J3BEBCRYJ6FADSJZMMNKMQ6C52841C4841ADCAE80680A1CE67B3F5.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/B/IU/J3BEBCRYJ6FADSJZMMNKMQ.uasset'
+[2025.06.20-06.50.46:692][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR
+[2025.06.20-06.50.46:692][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/VX89NHJF3JV61X2MU8A3QR626513774BD39F116DE86C84ACC53F29.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/F8/VX89NHJF3JV61X2MU8A3QR.uasset'
+[2025.06.20-06.50.46:694][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S
+[2025.06.20-06.50.46:695][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/7TKYWO0SEHWAB6LOJZFU9S529C79E344656C4CCE99CD97760AD6B8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/9Q/7TKYWO0SEHWAB6LOJZFU9S.uasset'
+[2025.06.20-06.50.46:697][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI
+[2025.06.20-06.50.46:697][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9GFP19J4X0N56CRNC8IYZI4620E8D64751959A2423FFB1037FFABA.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/1/02/9GFP19J4X0N56CRNC8IYZI.uasset'
+[2025.06.20-06.50.46:700][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9
+[2025.06.20-06.50.46:701][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/4V7DI4P80Y0KTNV74IMDO91DB7FCEC49C68B2C9ACD4A800EE46FA5.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/V6/4V7DI4P80Y0KTNV74IMDO9.uasset'
+[2025.06.20-06.50.46:703][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8
+[2025.06.20-06.50.46:703][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PKGGF6HYLP0PW98W8GTTP8F7C079EF49DA79E841FA5BBE73CADE20.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/C/JZ/PKGGF6HYLP0PW98W8GTTP8.uasset'
+[2025.06.20-06.50.46:705][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR
+[2025.06.20-06.50.46:705][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XUEFBQ9JMSFPKGE6TJQ2QR8DBE20D74F1222DE178BBCBD9D9E08E2.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/82/XUEFBQ9JMSFPKGE6TJQ2QR.uasset'
+[2025.06.20-06.50.46:708][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4
+[2025.06.20-06.50.46:708][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HDVAZ9ZSSC5SOCT8TMZVD428B3F4D44EA1584342545DBF019B9589.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/UV/HDVAZ9ZSSC5SOCT8TMZVD4.uasset'
+[2025.06.20-06.50.46:710][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM
+[2025.06.20-06.50.46:711][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FIQN9XSXXQRULRP20CGYZM3F75ED8046DBBADE28FBDABCD5D10383.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/1Q/FIQN9XSXXQRULRP20CGYZM.uasset'
+[2025.06.20-06.50.46:713][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308
+[2025.06.20-06.50.46:713][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/DXQ5UQOVMLC7KJ5KWNH3080B787DF745629B2F7007FC80DE602CD0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/4/93/DXQ5UQOVMLC7KJ5KWNH308.uasset'
+[2025.06.20-06.50.46:715][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD
+[2025.06.20-06.50.46:716][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/PS7NWL96L7OV8O1H4E7TFDCA12ED22451F675DFE76648007378057.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/CN/PS7NWL96L7OV8O1H4E7TFD.uasset'
+[2025.06.20-06.50.46:718][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6
+[2025.06.20-06.50.46:718][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/BGKX6IZ991MI708DLHV6G6FD104E274781E07FDF41428187DD2F0D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/FP/BGKX6IZ991MI708DLHV6G6.uasset'
+[2025.06.20-06.50.46:721][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ
+[2025.06.20-06.50.46:722][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/K9G4EYLCXWRFTS381T1VYJEA48414E40121871412A64BE4293DD90.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/HW/K9G4EYLCXWRFTS381T1VYJ.uasset'
+[2025.06.20-06.50.46:723][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B
+[2025.06.20-06.50.46:724][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5IF9P1RPRAJJ1NO48CAW6B22AE5F14498E9EF21DC2698F90E03BD6.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/AP/5IF9P1RPRAJJ1NO48CAW6B.uasset'
+[2025.06.20-06.50.46:726][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q
+[2025.06.20-06.50.46:726][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GGBQ8TH5KNOKL7QWPIU89QCE0CD9824173DBEF8792B781AE3A8022.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/3/DU/GGBQ8TH5KNOKL7QWPIU89Q.uasset'
+[2025.06.20-06.50.46:728][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI
+[2025.06.20-06.50.46:729][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SU9YSJWSE8UGI0YGZ8DJWI6BBDE2CE4504C1A7E3FC0C9143FCD1C0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/ZM/SU9YSJWSE8UGI0YGZ8DJWI.uasset'
+[2025.06.20-06.50.46:731][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO
+[2025.06.20-06.50.46:731][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CBU286IOKEUX624Q1V4UFOFD81B3C24BF9F7F341D74281E76B840D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/E0/CBU286IOKEUX624Q1V4UFO.uasset'
+[2025.06.20-06.50.46:734][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2
+[2025.06.20-06.50.46:734][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O2TS6WVKN4VTI1NEXXZ7F214ABC824472DB1A6C1F354A2A841CC52.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/6/XD/O2TS6WVKN4VTI1NEXXZ7F2.uasset'
+[2025.06.20-06.50.46:736][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ
+[2025.06.20-06.50.46:737][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/3KDJ5GGQ10EDEQN7IYEEAJ3688B7964CB92CA9555F96ACF371DE11.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/UE/3KDJ5GGQ10EDEQN7IYEEAJ.uasset'
+[2025.06.20-06.50.46:739][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R
+[2025.06.20-06.50.46:739][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TKX4MCZFLOX0L51YFAI24R340BBB024A1FF3A634FADC886D3F1CFB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/4/9Y/TKX4MCZFLOX0L51YFAI24R.uasset'
+[2025.06.20-06.50.46:741][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0
+[2025.06.20-06.50.46:742][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/E576X03UT49HIZBIE5SLU0E5D9320045220A42399F06BACDBDC4B4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/C/CX/E576X03UT49HIZBIE5SLU0.uasset'
+[2025.06.20-06.50.46:744][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R
+[2025.06.20-06.50.46:744][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5QOOGHJD3XQ3EUHW6D5V6RB6FE333A4B9BC9105A3970896C760726.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/A/BZ/5QOOGHJD3XQ3EUHW6D5V6R.uasset'
+[2025.06.20-06.50.46:746][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW
+[2025.06.20-06.50.46:748][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/8HVL9DR4FDOSB4OU40CHHW478DD50846CD752DD7D7E9B6B4A26C71.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/FJ/8HVL9DR4FDOSB4OU40CHHW.uasset'
+[2025.06.20-06.50.46:750][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC
+[2025.06.20-06.50.46:750][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/T038E81JCDXJFS67B8SIDC4600C77A4D4B1B1625165EACD7EC67E4.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/9/PY/T038E81JCDXJFS67B8SIDC.uasset'
+[2025.06.20-06.50.46:752][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC
+[2025.06.20-06.50.46:753][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HLFCTRIADT8L8EU895B6CC6D96EFB44E2D171F98329D952DEF6A6D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/D/QR/HLFCTRIADT8L8EU895B6CC.uasset'
+[2025.06.20-06.50.46:754][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C
+[2025.06.20-06.50.46:755][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/CAOCTXFKFL2V8DFP79PS9CFE70EC734E24912441F108B85A0D32C8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/B/FE/CAOCTXFKFL2V8DFP79PS9C.uasset'
+[2025.06.20-06.50.46:758][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO
+[2025.06.20-06.50.46:758][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9XVV7MO9DDLOE2SURORXOOAF35005649D3D82B94C6DBBB93150AEF.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/6/5W/9XVV7MO9DDLOE2SURORXOO.uasset'
+[2025.06.20-06.50.46:760][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF
+[2025.06.20-06.50.46:761][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/M5JJFEY34983RP8SAC66JF39DBEBFE43FCD262D2A2F2950768176B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/MY/M5JJFEY34983RP8SAC66JF.uasset'
+[2025.06.20-06.50.46:763][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ
+[2025.06.20-06.50.46:763][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LZOUZDZ5XPFNKH2XPP6ALQ2EB30B824B06B1515BD10C9B0403A11E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/AQ/LZOUZDZ5XPFNKH2XPP6ALQ.uasset'
+[2025.06.20-06.50.46:765][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8
+[2025.06.20-06.50.46:766][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FT2STSNF2XTWZXL16ECZI84B3BFB7346B2B8CCFBC1B6B19E82E169.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/0/ZE/FT2STSNF2XTWZXL16ECZI8.uasset'
+[2025.06.20-06.50.46:767][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9
+[2025.06.20-06.50.46:769][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/6Z9GX9J6QHZ5148ACJLQC96379DF6347231A2BF5FCB29992B00117.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/5/E4/6Z9GX9J6QHZ5148ACJLQC9.uasset'
+[2025.06.20-06.50.46:771][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7
+[2025.06.20-06.50.46:771][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/L1QMDGDGOQB2JYOL55LSA7466FDA7B4D1A321C210CC0ACAE4FB96B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/3/71/L1QMDGDGOQB2JYOL55LSA7.uasset'
+[2025.06.20-06.50.46:773][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20
+[2025.06.20-06.50.46:773][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/ZY3SWKV3HK9EUSOVWPFZ206E98EF244D6BBEA59C45BF846E3EE46D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/1/9A/ZY3SWKV3HK9EUSOVWPFZ20.uasset'
+[2025.06.20-06.50.46:775][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY
+[2025.06.20-06.50.46:776][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XEQME3Z5M3OIX99YFJGUHYE3F863744FD57314AB2019ABF868FC1C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/8/YK/XEQME3Z5M3OIX99YFJGUHY.uasset'
+[2025.06.20-06.50.46:779][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K
+[2025.06.20-06.50.46:779][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FO2ONKZNMSBBP6VOEWW97KCE7C3D0948560A1FAE768CB6062CA85B.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K.uasset'
+[2025.06.20-06.50.46:781][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP
+[2025.06.20-06.50.46:781][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O4JVDNU0AXK439FSKAEOMPAFDCE10C4215189A341F94AAA07DEB7D.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP.uasset'
+[2025.06.20-06.50.46:784][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/7/GE/V6GVU6HCBOOTV719YT2BML
+[2025.06.20-06.50.46:784][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/V6GVU6HCBOOTV719YT2BML0C8878AD4C4FB6D8C5A489AEC999E9B0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/7/GE/V6GVU6HCBOOTV719YT2BML.uasset'
+[2025.06.20-06.50.46:786][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD
+[2025.06.20-06.50.46:786][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GWXP1KYD4ZSLMCYLW8DHKD36414DE246EA7E7EC859E8B7C60E8237.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD.uasset'
+[2025.06.20-06.50.46:789][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/1/R0/9IDN9AJIQN24HK3HLO3NR1
+[2025.06.20-06.50.46:789][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/9IDN9AJIQN24HK3HLO3NR1BDE6483948D382401E95598DD8363C5C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/1/R0/9IDN9AJIQN24HK3HLO3NR1.uasset'
+[2025.06.20-06.50.46:792][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DESERT/2/3L/COLPYIELF2WGG0I2O4Q726
+[2025.06.20-06.50.46:792][403]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/COLPYIELF2WGG0I2O4Q726BB2237F84A1738DC135FC8A90120478E.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Content/__ExternalActors__/DESERT/2/3L/COLPYIELF2WGG0I2O4Q726.uasset'
+[2025.06.20-06.50.46:810][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.554 ms (total: 12.3 sec)
+[2025.06.20-06.50.46:952][403]LogContentValidation: Display: Starting to validate 43 assets
+[2025.06.20-06.50.46:952][403]LogContentValidation: Enabled validators:
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-06.50.46:952][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-06.50.46:952][403]AssetCheck: /Game/DESERT Validating asset
+[2025.06.20-06.50.46:975][403]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.20-06.52.17:035][ 77]Cmd: TRANSACTION UNDO
+[2025.06.20-06.52.17:035][ 77]LogEditorTransaction: Undo Move Elements
+[2025.06.20-06.52.32:337][965]Cmd: SELECT NONE
+[2025.06.20-06.56.34:103][436]Cmd: SELECT NONE
+[2025.06.20-06.58.20:830][497]Cmd: SELECT NONE
+[2025.06.20-06.59.09:603][338]Cmd: SELECT NONE
+[2025.06.20-06.59.45:989][443]Cmd: SELECT NONE
+[2025.06.20-07.00.10:756][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.06.20-07.00.10:764][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto9
+[2025.06.20-07.00.10:764][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/FO2ONKZNMSBBP6VOEWW97K_Auto9A126C1A6443B8FFADA7378978994CCBC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/4/PZ/FO2ONKZNMSBBP6VOEWW97K_Auto9.uasset'
+[2025.06.20-07.00.10:766][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP_Auto9
+[2025.06.20-07.00.10:766][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/O4JVDNU0AXK439FSKAEOMP_Auto9B95CDF68421405CA319CDD833C35AE96.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/7/7V/O4JVDNU0AXK439FSKAEOMP_Auto9.uasset'
+[2025.06.20-07.00.10:769][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD_Auto9
+[2025.06.20-07.00.10:769][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/GWXP1KYD4ZSLMCYLW8DHKD_Auto95F39253A4FE1ECAACF7E259775F601D0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/E/A7/GWXP1KYD4ZSLMCYLW8DHKD_Auto9.uasset'
+[2025.06.20-07.00.10:771][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/9/49/XBWTQUPNGDW8RM4J396S0X_Auto9
+[2025.06.20-07.00.10:771][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/XBWTQUPNGDW8RM4J396S0X_Auto9F3B608BE4D60DE5D8F3DD7980D178641.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/9/49/XBWTQUPNGDW8RM4J396S0X_Auto9.uasset'
+[2025.06.20-07.00.10:773][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/3/RY/LN5AHCDZGYFBTV2KP9JF39_Auto9
+[2025.06.20-07.00.10:773][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LN5AHCDZGYFBTV2KP9JF39_Auto9690DF66C49F8E6297FF7068D90C62A3F.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/3/RY/LN5AHCDZGYFBTV2KP9JF39_Auto9.uasset'
+[2025.06.20-07.00.10:774][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/3/ZS/Q3WMYJ1ZUHTNL725346W78_Auto9
+[2025.06.20-07.00.10:774][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Q3WMYJ1ZUHTNL725346W78_Auto953C9309B40FD3F187B1AAF8A75857FD5.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/3/ZS/Q3WMYJ1ZUHTNL725346W78_Auto9.uasset'
+[2025.06.20-07.00.10:776][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/9/BU/H0WCHABYQGXN6I5FD0PCWD_Auto9
+[2025.06.20-07.00.10:776][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/H0WCHABYQGXN6I5FD0PCWD_Auto9C778D5D24B69272C333CAAA10579C3BB.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/9/BU/H0WCHABYQGXN6I5FD0PCWD_Auto9.uasset'
+[2025.06.20-07.00.10:779][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/E/0Y/3GQAX0H46RDE1PSDKXL3HD_Auto9
+[2025.06.20-07.00.10:779][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/3GQAX0H46RDE1PSDKXL3HD_Auto99FD6E63F41EBFEC00D907F9D07F177E1.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/E/0Y/3GQAX0H46RDE1PSDKXL3HD_Auto9.uasset'
+[2025.06.20-07.00.10:781][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/DB/EWK3LB4YWJN21FHJ2QF37Y_Auto9
+[2025.06.20-07.00.10:781][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/EWK3LB4YWJN21FHJ2QF37Y_Auto9BBA661FF44C159CC2F107E97C359FADE.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/DB/EWK3LB4YWJN21FHJ2QF37Y_Auto9.uasset'
+[2025.06.20-07.00.10:782][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/B/NL/L6V4W769349IL8TAQAHWB5_Auto9
+[2025.06.20-07.00.10:782][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/L6V4W769349IL8TAQAHWB5_Auto94251FF3E4DCD08A9C467A18B43FEC059.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/B/NL/L6V4W769349IL8TAQAHWB5_Auto9.uasset'
+[2025.06.20-07.00.10:785][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/0/OQ/MVYJ8089DA5KUNBBOPSR10_Auto9
+[2025.06.20-07.00.10:785][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/MVYJ8089DA5KUNBBOPSR10_Auto9122AEE5D4E9684D362FACBBB056C96A0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/0/OQ/MVYJ8089DA5KUNBBOPSR10_Auto9.uasset'
+[2025.06.20-07.00.10:787][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/W9/TEFWVSXXGZMC1IPO35KK9X_Auto9
+[2025.06.20-07.00.10:787][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/TEFWVSXXGZMC1IPO35KK9X_Auto9C6A2C95943D1E6C968607B9C8EDC71B0.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/W9/TEFWVSXXGZMC1IPO35KK9X_Auto9.uasset'
+[2025.06.20-07.00.10:789][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/7/LC/QGPG7YCKVM4I39VSCOSF01_Auto9
+[2025.06.20-07.00.10:789][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/QGPG7YCKVM4I39VSCOSF01_Auto9FD0DBB76409A1717F8B988B0D5A97DF3.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/7/LC/QGPG7YCKVM4I39VSCOSF01_Auto9.uasset'
+[2025.06.20-07.00.10:791][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/8S/YMFYMWGO3EPCOPT7E80L02_Auto9
+[2025.06.20-07.00.10:791][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/YMFYMWGO3EPCOPT7E80L02_Auto98C8E7CC44C633887633EA386C53E61A6.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/8S/YMFYMWGO3EPCOPT7E80L02_Auto9.uasset'
+[2025.06.20-07.00.10:793][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/5/6D/LSS3B6TC2R21430R24Z0M0_Auto9
+[2025.06.20-07.00.10:794][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LSS3B6TC2R21430R24Z0M0_Auto97216F24B458BA08536386996425E9BDC.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/5/6D/LSS3B6TC2R21430R24Z0M0_Auto9.uasset'
+[2025.06.20-07.00.10:795][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/3/JA/3GIT2DPVUMX5R9QAQTUPR7_Auto9
+[2025.06.20-07.00.10:795][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/3GIT2DPVUMX5R9QAQTUPR7_Auto92156715B4D67E41C3640A1BC7B4B8B01.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/3/JA/3GIT2DPVUMX5R9QAQTUPR7_Auto9.uasset'
+[2025.06.20-07.00.10:797][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/9/FY/7JM4363IB3OXD79LIW2G6R_Auto9
+[2025.06.20-07.00.10:797][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/7JM4363IB3OXD79LIW2G6R_Auto9529540EE4C30A282BE7C4C8A3F64D956.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/9/FY/7JM4363IB3OXD79LIW2G6R_Auto9.uasset'
+[2025.06.20-07.00.10:800][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/D/3V/VOPQ050E7JVNHU0CDYVER3_Auto9
+[2025.06.20-07.00.10:800][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/VOPQ050E7JVNHU0CDYVER3_Auto981E6FB4049DF6A1473CCEB96ABD3EF08.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/D/3V/VOPQ050E7JVNHU0CDYVER3_Auto9.uasset'
+[2025.06.20-07.00.10:802][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/YR/5Q7YOLELKU8TQSHNM8VZV2_Auto9
+[2025.06.20-07.00.10:802][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/5Q7YOLELKU8TQSHNM8VZV2_Auto9A8E507DE4D8D2F415630ADBBCCB70E19.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/YR/5Q7YOLELKU8TQSHNM8VZV2_Auto9.uasset'
+[2025.06.20-07.00.10:804][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/1/F1/LHYUYC4X8XBZ1CGGYQGZT3_Auto9
+[2025.06.20-07.00.10:804][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/LHYUYC4X8XBZ1CGGYQGZT3_Auto956C7AE7E4D66978338140F804C7ED5E8.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/1/F1/LHYUYC4X8XBZ1CGGYQGZT3_Auto9.uasset'
+[2025.06.20-07.00.10:807][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DESERT/7/9H/HKISI9RX64PVJRTPF7UQJS_Auto9
+[2025.06.20-07.00.10:807][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/HKISI9RX64PVJRTPF7UQJS_Auto931BFD978412E418BB3EFBA8ACDAAF818.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/__ExternalActors__/DESERT/7/9H/HKISI9RX64PVJRTPF7UQJS_Auto9.uasset'
+[2025.06.20-07.00.10:808][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DESERT' took 0.071
+[2025.06.20-07.00.10:808][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2025.06.20-07.00.10:808][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Box_C8E7C810] ([1] browsable assets)...
+[2025.06.20-07.00.10:808][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_C8E7C810]
+[2025.06.20-07.00.10:810][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_C8E7C810_Auto9
+[2025.06.20-07.00.10:810][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_C8E7C810_Auto9548840684BFE60901E38C1A0B05B00BE.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_C8E7C810_Auto9.uasset'
+[2025.06.20-07.00.10:811][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ASUS/Box_9EB37FF6] ([1] browsable assets)...
+[2025.06.20-07.00.10:811][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ASUS/Box_9EB37FF6]
+[2025.06.20-07.00.10:812][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto9
+[2025.06.20-07.00.10:812][610]LogSavePackage: Moving '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Box_9EB37FF6_Auto943C21058432E1948562F77A514C7453C.tmp' to '../../../../../../Users/ASUS/Desktop/ETP/WorldBuilding_Kiran_12206001_ETP/WorldBuilding/Saved/Autosaves/Game/_GENERATED/ASUS/Box_9EB37FF6_Auto9.uasset'
+[2025.06.20-07.00.10:813][610]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.06.20-07.01.14:368][507]Cmd: TRANSACTION UNDO
+[2025.06.20-07.01.14:368][507]LogEditorTransaction: Undo Rotate Elements
+[2025.06.20-07.01.16:962][641]Cmd: SELECT NONE
+[2025.06.20-07.01.47:140][370]Cmd: SELECT NONE
+[2025.06.20-07.02.22:405][386]Cmd: SELECT NONE
+[2025.06.20-07.02.40:398][407]Cmd: SELECT NONE
